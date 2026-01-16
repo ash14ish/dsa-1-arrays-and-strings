@@ -14,6 +14,9 @@ import "./arrays/problems/easy/two-sum.js";
 import "./arrays/problems/easy/move-zeroes.js";
 import "./arrays/problems/easy/rotate-image.js";
 import "./arrays/problems/easy/single-number.js";
+import "./arrays/problems/easy/merge-sorted-array.js";
+import "./arrays/problems/easy/pascal-triangle.js";
+import "./arrays/problems/easy/majority-element.js";
 
 // Recursion
 import "./recursion/direct.js";
