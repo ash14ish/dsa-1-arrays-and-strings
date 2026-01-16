@@ -6,9 +6,14 @@ import "./arrays/operations/merge.js";
 import "./arrays/operations/reverse.js";
 
 // Problems
-import "./arrays/problems/easy/index.js";
-// import "./arrays/problems/medium//index.js";
-// import "./arrays/problems/difficult/index.js";
+import "./arrays/problems/easy/plus-one.js";
+import "./arrays/problems/easy/remove-duplicates.js";
+import "./arrays/problems/easy/search-insert-position.js";
+import "./arrays/problems/easy/contains-duplicate.js";
+import "./arrays/problems/easy/two-sum.js";
+import "./arrays/problems/easy/move-zeroes.js";
+import "./arrays/problems/easy/rotate-image.js";
+import "./arrays/problems/easy/single-number.js";
 
 // Recursion
 import "./recursion/direct.js";
@@ -40,3 +45,7 @@ import "./strings/problems/easy/reverse-integer.js";
 // Patterns
 
 import "./patterns/index.js";
+
+// Maths
+
+import "./maths/fizzbuzz.js";
