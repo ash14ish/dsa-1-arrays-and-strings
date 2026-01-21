@@ -17,6 +17,9 @@ import "./arrays/problems/easy/single-number.js";
 import "./arrays/problems/easy/merge-sorted-array.js";
 import "./arrays/problems/easy/pascal-triangle.js";
 import "./arrays/problems/easy/majority-element.js";
+import "./arrays/problems/easy/pivot-index.js";
+import "./arrays/problems/medium/container-with-most-water.js";
+import "./arrays/problems/easy/unique-number-occurences.js";
 
 // Recursion
 import "./recursion/direct.js";
