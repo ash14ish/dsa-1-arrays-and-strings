@@ -20,6 +20,7 @@ import "./arrays/problems/easy/majority-element.js";
 import "./arrays/problems/easy/pivot-index.js";
 import "./arrays/problems/medium/container-with-most-water.js";
 import "./arrays/problems/easy/unique-number-occurences.js";
+import "./arrays/problems/easy/first-last-position.js";
 
 // Recursion
 import "./recursion/direct.js";

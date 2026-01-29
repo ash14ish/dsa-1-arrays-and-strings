@@ -1,21 +1,21 @@
-let nums = [1, 2, 2, 1, 1, 3];
+// let nums = [1, 2, 2, 1, 1, 3];
 
-function uniqueNumberOccurences(arr) {
-  let num;
-  let freq = new Map();
+// function uniqueNumberOccurences(arr) {
+//   let num;
+//   let freq = new Map();
 
-  for (num of arr) {
-    freq.set(num, (freq.get(num) || 0) + 1);
-  }
+//   for (num of arr) {
+//     freq.set(num, (freq.get(num) || 0) + 1);
+//   }
 
-  let seen = new Set();
+//   let seen = new Set();
 
-  for (num of freq.values()) {
-    if (seen.has(num)) return false;
-    seen.add(num);
-  }
+//   for (num of freq.values()) {
+//     if (seen.has(num)) return false;
+//     seen.add(num);
+//   }
 
-  return true;
-}
+//   return true;
+// }
 
-console.log(uniqueNumberOccurences(nums));
+// console.log(uniqueNumberOccurences(nums));
