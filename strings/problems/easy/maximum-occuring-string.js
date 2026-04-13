@@ -15,3 +15,20 @@
 // }
 
 // console.log(maxiumOccuringCharacter("hello"));
+
+// function maxOccurringCharacter(str) {
+//   const freq = {};
+//   let maxChar = "";
+
+//   for (const char of str) {
+//     freq[char] = (freq[char] || 0) + 1;
+
+//     if (freq[char] > (freq[maxChar] || 0)) {
+//       maxChar = char;
+//     }
+//   }
+
+//   return maxChar;
+// }
+
+// console.log(maxiumOccuringCharacter("hello"));

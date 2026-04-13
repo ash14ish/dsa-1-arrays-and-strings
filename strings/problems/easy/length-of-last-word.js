@@ -6,7 +6,7 @@
 //     if (str[i] !== " ") break;
 //   }
 
-//   for (i = i; i >= 0; i--) {
+//   for (i; i >= 0; i--) {
 //     if (str[i] === " ") {
 //       break;
 //     }
@@ -23,16 +23,11 @@
 //   let i = str.length - 1;
 //   let length = 0;
 
-//   while (i >= 0) {
-//     if (str[i] !== " ") break;
+//   while (i >= 0 && str[i] === " ") {
 //     i--;
 //   }
 
-//   while (i >= 0) {
-//     if (str[i] === " ") {
-//       break;
-//     }
-
+//   while (i >= 0 && str[i] !== " ") {
 //     length++;
 //     i--;
 //   }
@@ -40,4 +35,4 @@
 //   return length;
 // }
 
-// console.log(lengthOfLastWord("hello world    "));
+// console.log(lengthOfLastWord("hello worlder    "));

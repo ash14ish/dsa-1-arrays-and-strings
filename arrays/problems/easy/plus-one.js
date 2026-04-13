@@ -1,6 +1,6 @@
 // Plus One
 
-// var plusOne = function (digits: number[]) {
+// const plusOne = function (digits) {
 //   let i = digits.length - 1;
 
 //   if (digits[i] === 9) {

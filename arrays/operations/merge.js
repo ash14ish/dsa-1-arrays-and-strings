@@ -3,7 +3,7 @@
 // const arr1 = [11, 13, 98, 27, 26];
 // const arr2 = [92, 2, 12, 91, 31];
 
-// const mergedArr: any[] = [];
+// const mergedArr = [];
 
 // for (let i = 0; i < arr1.length; i++) {
 //   mergedArr[i] = arr1[i];
@@ -23,7 +23,7 @@
 // const arr2 = [2, 12, 28, 96, 105, 180];
 // let arr2Idx = 0;
 
-// const mergedArr: any[] = [];
+// const mergedArr = [];
 // let mergedArrIdx = 0;
 
 // while (arr1Idx < arr1.length && arr2Idx < arr2.length) {
